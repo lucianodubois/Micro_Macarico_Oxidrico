@@ -4,4 +4,4 @@ AUTOMAÇÃO DE UMA MÁQUINA ELETROLÍTICA PARA GERAÇÃO DE HIDROGÊNIO E OXIGÊ
 
 
 Link para o código original da automação do controle proporcional PWM:
-https://github.com/lucianodubois/Micro_Macarico_Oxidrico/blob/main/MMO_cod.controle_P_PWM_artigo.txt
+https://github.com/lucianodubois/Micro_Macarico_Oxidrico/blob/main/MMO_cod.controle_P_PWM_artigo.ino
